@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased](https://github.com/figuren-theater/install.php/compare/1.3.2...HEAD)
+## [Unreleased](https://github.com/figuren-theater/install.php/compare/1.4.0...HEAD)
+
+## [1.4.0](https://github.com/figuren-theater/install.php/compare/1.3.2...1.4.0) - 2024-02-28
+
+### Dependency Updates & Maintenance
+
+- Upgrading figuren-theater/code-quality (0.5.0 => 1.1.1) ([#9](https://github.com/figuren-theater/install.php/pull/9))
 
 ## [1.3.2](https://github.com/figuren-theater/install.php/compare/1.3.1...1.3.2) - 2023-09-14
 
